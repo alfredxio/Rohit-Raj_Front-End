@@ -1,4 +1,8 @@
 # SteelEye Assignment
+
+### Rohit Raj | mr.rajarohit9431@gmail.com | +918789517485 | https://alfredx.in
+### Live Link of this assignment: https://alfredx.in/steeleye.html
+
 ## CODE REVIEW
 
 The code defines a React component called List that receives an array of items as a prop and renders a list of those items. It uses two components, SingleListItem and WrappedSingleListItem, to render each item in the list. SingleListItem is a memoized version of WrappedSingleListItem and receives props like index, isSelected, onClickHandler, and text. It renders an li element with the text of the item and sets a background color based on the isSelected prop. The List component maps over the items array to render each item as a SingleListItem component. It also maintains state for selectedIndex and defines a click handler to update the selectedIndex state variable when a SingleListItem is clicked. When the items prop changes, it sets the selectedIndex state variable to null using a useEffect hook.
@@ -47,4 +51,4 @@ After fixing all the above errors and starting the react-app we receive below ou
 
 ![image](https://user-images.githubusercontent.com/87885945/233741441-ec3eb8ac-a43e-44e6-972a-9b4be4c82083.png)
 
-
+## Enhanced Version
