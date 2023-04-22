@@ -54,3 +54,5 @@ After fixing all the above errors and starting the react-app we receive below ou
 ## Enhanced Version
 ![Screenshot 2023-04-22 091448](https://user-images.githubusercontent.com/87885945/233761470-c9dbefb2-245c-471a-b4de-542b9edf2d71.png)
 
+I improved the List component in React by adding a multiselect feature and enhancing the user interface styling. The component allows users to select multiple items and displays the selected items' text, making it easier for users to keep track of their selections. I also paid close attention to styling and layout, making the component more professional and visually appealing.
+To showcase my work, I added the updated List component to my GitHub repository and also hosted the same as a page on my hosted webpage https://alfredx.in/steeleye.html. I also included a detailed description of the changes in the README.md file, along with screenshots of the updated component.
