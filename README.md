@@ -1,6 +1,6 @@
 # SteelEye Assignment
 
-### Rohit Raj | mr.rajarohit9431@gmail.com | +918789517485 | https://alfredx.in
+#### Rohit Raj | mr.rajarohit9431@gmail.com | +918789517485 | https://alfredx.in
 ### Live Link of this assignment: https://alfredx.in/steeleye.html
 
 ## CODE REVIEW
@@ -52,3 +52,5 @@ After fixing all the above errors and starting the react-app we receive below ou
 ![image](https://user-images.githubusercontent.com/87885945/233741441-ec3eb8ac-a43e-44e6-972a-9b4be4c82083.png)
 
 ## Enhanced Version
+![Screenshot 2023-04-22 091448](https://user-images.githubusercontent.com/87885945/233761470-c9dbefb2-245c-471a-b4de-542b9edf2d71.png)
+
