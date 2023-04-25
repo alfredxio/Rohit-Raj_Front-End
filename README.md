@@ -46,6 +46,18 @@ In the SingleListItem component, the isSelected prop is being passed the state v
 isSelected={selectedIndex === index}
 ```
 
+
+### Optimization
+To optimize the handleClick function using useCallback, we can wrap the function inside the useCallback hook and provide selectedIndex and setSelectedIndex as dependencies. This will avoid unnecessary re-renders of the SingleListItem components. Here's the updated code:
+```js
+const handleClick = useCallback(
+  (index) => {
+    setSelectedIndex(index);
+  },
+  [setSelectedIndex]
+);
+```
+
 ## Code Output
 After fixing all the above errors and starting the react-app we receive below output:
 
